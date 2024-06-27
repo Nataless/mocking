@@ -1,3 +1,3 @@
 import getLevel from './user';
 
-console.log (getLevel(1));
+console.log(getLevel(1));
